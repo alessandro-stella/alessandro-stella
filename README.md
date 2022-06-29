@@ -17,5 +17,3 @@
     questions, do not hesitate to contact me at my email address: alessandro.stella2004@gmail.com
 </li>
 </ul>
-
-<h1>Past projects :clipboard:</h1>
