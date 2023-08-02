@@ -30,6 +30,7 @@ Hi there, my name is Alessandro Stella and I'm a high school student with a pass
 ![](https://github-readme-stats.vercel.app/api?username=alessandro-stella&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alessandro-stella&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-stella&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-stella&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alessandro-stella&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
