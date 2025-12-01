@@ -4,15 +4,6 @@
 
 <h3 align="left">👋 Hi there! I'm Alessandro Stella, a passionate Computer Engineering student at the University of Rome Tor Vergata. <br>🎓 Currently delving deep into the world of algorithms, data structures, and software development methodologies.<br><br>💻 Aspiring Web Application Developer, with a keen interest in crafting seamless and user-friendly web experiences. <br>🌐 Excited about leveraging cutting-edge technologies to build scalable and robust applications that make a real impact.<br><br>🔍 Constantly exploring new technologies and frameworks to stay ahead of the curve. <br>💡 Eager to collaborate on open-source projects and contribute to the vibrant developer community.<br><br>🌱 Always learning, growing, and striving for excellence in both code and creativity. <br>Let's connect and build something awesome together! 🚀</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandro-stella&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandro-stella&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark_dimmed&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
