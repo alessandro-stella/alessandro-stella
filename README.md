@@ -1,8 +1,8 @@
-<h2 align="left">💫 About Me:</h2>
+<h2 align="left">About Me:</h2>
 
 ###
 
-<h3 align="left">👋 Hi there! I'm Alessandro Stella, a passionate Computer Engineering student at the University of Rome Tor Vergata. <br>🎓 Currently delving deep into the world of algorithms, data structures, and software development methodologies.<br><br>💻 Aspiring Web Application Developer, with a keen interest in crafting seamless and user-friendly web experiences. <br>🌐 Excited about leveraging cutting-edge technologies to build scalable and robust applications that make a real impact.<br><br>🔍 Constantly exploring new technologies and frameworks to stay ahead of the curve. <br>💡 Eager to collaborate on open-source projects and contribute to the vibrant developer community.<br><br>🌱 Always learning, growing, and striving for excellence in both code and creativity. <br>Let's connect and build something awesome together! 🚀</h3>
+<h3 align="left">Hi there! I'm Alessandro Stella, a passionate Computer Engineering student at the University of Rome Tor Vergata. <br>Currently delving deep into the world of algorithms, data structures, and software development methodologies.<br><br>Aspiring Web Application Developer, with a keen interest in crafting seamless and user-friendly web experiences. <br>Excited about leveraging cutting-edge technologies to build scalable and robust applications that make a real impact.<br><br>Constantly exploring new technologies and frameworks to stay ahead of the curve. <br>Eager to collaborate on open-source projects and contribute to the vibrant developer community.<br><br>Always learning, growing, and striving for excellence in both code and creativity. <br>Let's connect and build something awesome together!</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
